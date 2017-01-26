@@ -5,4 +5,4 @@ To use the program, enter numbers separated by a space.
 
 Example usage
 
-![Example](https://github.com/vadimivanovfr/vadimivanovfr.github.io/raw/master/usingMergeSort.png)
+![Example](https://github.com/vadimivanovfr/vadimivanovfr.github.io/raw/master/projects/usingMergeSort.png)
